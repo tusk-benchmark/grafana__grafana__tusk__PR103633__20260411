@@ -49,7 +49,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.3.2 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
-	github.com/Azure/go-ntlmssp v0.0.0-20220621081337-cb9428e4ac1e // indirect
+	github.com/Azure/go-ntlmssp v0.1.0 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.2 // indirect
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c // indirect
 	github.com/GoogleCloudPlatform/grpc-gcp-go/grpcgcp v1.5.2 // indirect
@@ -154,10 +154,10 @@ require (
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/gchaincl/sqlhooks v1.3.0 // indirect
 	github.com/getkin/kin-openapi v0.131.0 // indirect
-	github.com/go-asn1-ber/asn1-ber v1.5.4 // indirect
+	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.4 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
-	github.com/go-ldap/ldap/v3 v3.4.4 // indirect
+	github.com/go-ldap/ldap/v3 v3.4.13 // indirect
 	github.com/go-logfmt/logfmt v0.6.0 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
@@ -384,16 +384,17 @@ require (
 	go.uber.org/mock v0.5.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/crypto v0.36.0 // indirect
-	golang.org/x/mod v0.24.0 // indirect
-	golang.org/x/net v0.37.0 // indirect
+	golang.org/x/crypto v0.48.0 // indirect
+	golang.org/x/mod v0.32.0 // indirect
+	golang.org/x/net v0.50.0 // indirect
 	golang.org/x/oauth2 v0.27.0 // indirect
-	golang.org/x/sync v0.12.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
-	golang.org/x/term v0.30.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
+	golang.org/x/sync v0.19.0 // indirect
+	golang.org/x/sys v0.41.0 // indirect
+	golang.org/x/telemetry v0.0.0-20260109210033-bd525da824e2 // indirect
+	golang.org/x/term v0.40.0 // indirect
+	golang.org/x/text v0.34.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
-	golang.org/x/tools v0.31.0 // indirect
+	golang.org/x/tools v0.41.0 // indirect
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da // indirect
 	gonum.org/v1/gonum v0.15.1 // indirect
 	google.golang.org/api v0.220.0 // indirect
